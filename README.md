@@ -83,5 +83,5 @@ CredSeeker extracts passwords and credentials from the following sources:
 ## 🔗 Resources
 - [DPAPI Documentation](https://docs.microsoft.com/en-us/windows/win32/api/dpapi/)
 - [Chrome Password Storage](https://chromium.googlesource.com/chromium/src/+/main/components/os_crypt/)
-- [Firefox Password Storage](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/NSS)
+- [Firefox Password Storage](https://firefox-source-docs.mozilla.org/security/nss/index.html)
 
