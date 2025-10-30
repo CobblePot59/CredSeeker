@@ -51,9 +51,6 @@ CredSeeker extracts passwords and credentials from the following sources:
     ```
 
 ## 🎯 Usage
-    ```bash
-    python main.py
-    ```
 
 ![CredSeeker.png](.github/pictures/CredSeeker.png)
 
