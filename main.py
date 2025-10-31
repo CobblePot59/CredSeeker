@@ -1,7 +1,6 @@
 from dpapi_utils import is_admin
 from chromium_extractor import fetch_chromium_passwords
 from mozilla_extractor import fetch_firefox_passwords, fetch_thunderbird_passwords
-from wifi_extractor import fetch_wifi_passwords
 
 def main():
     if not is_admin():
@@ -37,3 +36,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
