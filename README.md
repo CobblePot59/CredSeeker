@@ -41,7 +41,7 @@ CredSeeker extracts passwords and credentials from the following sources:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[votre-nom]/credseeker.git
+   git clone https://github.com/CobblePot59/CredSeeker.git
    cd credseeker
    ```
 
