@@ -22,9 +22,9 @@ CredSeeker extracts passwords and credentials from the following sources:
 
 | Application    | Version | Status |
 |----------------|---------|--------|
-| Firefox        | 147  | ✅ Tested |
-| Thunderbird    | 147  | ✅ Tested |
-| Chrome         | 144     | ✅ Tested |
+| Firefox        | 148  | ✅ Tested |
+| Thunderbird    | 148  | ✅ Tested |
+| Chrome         | 145     | ✅ Tested |
 | Edge (Chromium)| 141     | ✅ Tested |
 
 ## 📋 Requirements
